@@ -1,4 +1,4 @@
-f{
+{
   "name": "f-stop.ai",
   "private": true,
   "version": "0.0.0",
@@ -9,10 +9,10 @@ f{
     "preview": "vite preview"
   },
   "dependencies": {
-    "html2canvas": "^1.4.1",
-    "lucide-react": "^0.555.0",
     "react": "^19.2.0",
-    "react-dom": "^19.2.0"
+    "react-dom": "^19.2.0",
+    "lucide-react": "^0.555.0",
+    "html2canvas": "^1.4.1"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
